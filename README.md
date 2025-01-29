@@ -1,7 +1,7 @@
 # PasswordWolfAPIverbose
 PowerShell script that generates random passwords using PasswordWolf API, written by ChatGPT and CabeoC.
 
-Run as normal user, and hit Enter to generate a random 20-char password. Enter option 1 to enter how many characters the password is. Option 2 to say how many passwords you want it to output. Hit Enter to call the API and print the password(s).
+Run as normal user, and hit Enter to generate a random 20-char password. Enter option 1 to enter how many characters the password is. Option 2 to say how many passwords you want it to output. Hit Enter to call the API and print the password(s) to your terminal in plain text.
 
 The Pretty Good Password Generator is a pretty good password generator at https://passwordwolf.com, where you can also find info about good password habbits, and documentation on the API.
 
